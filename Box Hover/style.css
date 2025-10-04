@@ -115,5 +115,24 @@ body {
     background: #4b384c;
   background: linear-gradient(135deg, #4b384c 15%,#da5de2 100%);
   }
+.box1:hover {
+  background: linear-gradient(135deg, #e2a9e5 15%, #2b94e5 100%);
+  color: #fff;
+  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
+  transform: translateY(-10px);
+}
 
+.box2:hover {
+  background: linear-gradient(135deg, #632c65 15%, #56a5e2 100%);
+  color: #fff;
+  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
+  transform: translateY(-10px);
+}
+
+.box3:hover {
+  background: linear-gradient(135deg, #4b384c 15%, #da5de2 100%);
+  color: #fff;
+  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
+  transform: translateY(-10px);
+}
   
